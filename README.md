@@ -1,2 +1,6 @@
 # cpp-tictactoe
-tictactoe game
+================================
+
+C++ Tic-Tac-Toe Game
+
+================================
